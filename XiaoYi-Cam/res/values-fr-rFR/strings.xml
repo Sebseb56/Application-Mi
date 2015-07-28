@@ -91,7 +91,7 @@
     <string name="close">Fermer</string>
     <string name="ignore">Ignorer</string>
     <string name="loading">Chargement...</string>
-    <string name="loading_video">正在下载视频</string>
+    <string name="loading_video">Chargement de la vidéo</string>
     <string name="empty">Aucunes vidéos ou photos trouvées !</string>
     <string name="camera">Caméra</string>
     <string name="my_camera">XiaoYi Caméra</string>
@@ -113,14 +113,14 @@
     <string name="share_success">Partage réussi !</string>
     <string name="share_faild">Partage échoué !</string>
     <string name="sdcard_not_mounted">Aucune carte SD montée !</string>
-    <string name="sdcard_size">可用%1$.1fG 总共%2$.1fG</string>
-    <string name="sdcard_slow">读写速度过低</string>
-    <string name="sdcard_small">存储卡容量过小，设备可能无法正常工作</string>
+    <string name="sdcard_size">Disponible 1$.1fG sur %2$.1fG</string>
+    <string name="sdcard_slow">Vitesse d'écriture de la Carte SD trop faible</string>
+    <string name="sdcard_small">La capacité de la carte mémoire est trop faible</string>
     <string name="network_error">Aucun réseau, veuillez réessayer</string>
     <string name="video_play_error">La lecture de la vidéo a echoué, veuillez réessayer</string>
-    <string name="wait_orange_light">请等待摄像机&lt;font color=#ffb400>黄灯闪烁&lt;/font>&lt;br/>并语音提示“等待连接”</string>
+    <string name="wait_orange_light">Veuillez patienter&lt;font color=#ffb400>Jaune clignotant&lt;/font>&lt;br/>并语音提示“En attente de connexion”</string>
     <string name="not_in_wifi">"Le Wi-Fi n'est pas activé, l'activer maintenant ?"</string>
-    <string name="not_support">暂不支持</string>
+    <string name="not_support">N'est pas supporté</string>
     <string name="sure_to_exit">Êtes-vous sûr de vouloir quitter ?</string>
     <string name="button_prev">Précédent</string>
     <string name="button_next">Suivant</string>
@@ -131,7 +131,7 @@
     <string name="back_start_upload_share">Retour du démarrage du partage de téléchargement</string>
     <string name="start_upload">Lancer le téléchargement</string>
     <string name="init_failed">"L'initialisation a échoué"</string>
-    <string name="internal_storage_space">内部存储空间</string>
+    <string name="internal_storage_space">Espace de stockage interne</string>
     <string name="yunyi_time_photo">Heure de la prise de la photo Yunyi</string>
     <string name="VideoView_error_button">VideoView_error_button</string>
     <string name="VideoView_error_text_invalid_progressive_playback">VideoView_error_text_invalid_progressive_playback</string>
